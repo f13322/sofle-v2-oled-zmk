@@ -16,14 +16,14 @@
 
         layer_0 {
             bindings = <
-&kp GRAVE       &kp NUMBER_1  &kp NUMBER_2  &kp NUMBER_3  &kp NUMBER_4  &kp NUMBER_5                          &kp NUMBER_6  &kp NUMBER_7  &kp NUMBER_8  &kp NUMBER_9  &kp N0         &kp UP_ARROW 
+&kp GRAVE       &kp NUMBER_1  &kp NUMBER_2  &kp NUMBER_3  &kp NUMBER_4  &kp NUMBER_5                          &kp NUMBER_6  &kp NUMBER_7  &kp NUMBER_8  &kp NUMBER_9  &kp N0         &kp UP 
 &kp TAB         &kp Q         &kp W         &kp E         &kp R         &kp T                                 &kp Y         &kp U         &kp I         &kp O         &kp P          &kp DOWN
 &kp ESCAPE      &kp A         &kp S         &kp D         &kp F         &kp G                                 &kp H         &kp J         &kp K         &kp L         &kp SEMICOLON  &kp SQT
 &kp LEFT_SHIFT  &kp Z         &kp X         &kp C         &kp V         &kp B         &kp K_MUTE    &trans    &kp N         &kp M         &kp COMMA     &kp PERIOD    &kp SLASH      &kp RIGHT 
-                              &kp LEFT_WIN  &kp RCTRL  &kp LEFT_ALT     &kp SPACE     &mo 1         &kp HOME  &kp END       &kp BACKSPACE &kp ENTER     &kp LEFT                   
+                              &kp LEFT_WIN  &kp RCTRL  &kp LEFT_ALT     &kp SPACE     &mo 1         &kp MINUS  &kp EQUAL       &kp BACKSPACE &kp ENTER     &kp LEFT                   
             >;
 
-            sensor-bindings = <&inc_dec_kp C_VOL_UP C_VOL_DN &inc_dec_kp SCRL_UP SCRL_DOWN>;
+            sensor-bindings = <&inc_dec_kp C_VOL_UP C_VOL_DN &inc_dec_kp PG_UP PG_DN>;
 
         };
 
@@ -31,8 +31,8 @@
             bindings = <
 &kp CAPS  &kp F1  &kp F2  &kp F3  &kp F4  &kp F5                    &kp F6  &kp F7   &kp F8    &kp F9     &kp F10     &kp F11
 &trans    &trans  &trans  &trans  &trans  &trans                    &kp N7  &kp N8   &kp N9    &kp LBKT   &kp RBKT    &kp BACKSLASH
-&trans    &trans  &trans  &trans  &trans  &trans                    &kp N4  &kp N5   &kp N6    &kp MINUS  &kp INSERT  &kp PAGE_UP
-&trans    &trans  &trans  &trans  &trans  &trans  &trans    &trans  &kp N1  &kp N2   &kp N3    &kp EQUAL  &kp DELETE  &kp PAGE_DOWN
+&trans    &trans  &trans  &trans  &trans  &trans                    &kp N4  &kp N5   &kp N6    &kp HOME  &kp END  &kp PAGE_UP
+&trans    &trans  &trans  &trans  &trans  &trans  &trans    &trans  &kp N1  &kp N2   &kp N3    &kp INSERT  &kp DELETE  &kp PAGE_DOWN
                   &trans  &trans  &trans  &trans  &trans    &trans  &kp N0  &kp DOT  &kp FSLH  &kp ASTRK
             >;
         };

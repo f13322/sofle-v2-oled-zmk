@@ -12,7 +12,7 @@ layers:
   - '8'
   - '9'
   - '0'
-  - UP ARROW
+  - UP
   - TAB
   - Q
   - W
@@ -56,8 +56,8 @@ layers:
   - LEFT ALT
   - SPACE
   - '1'
-  - HOME
-  - END
+  - '-'
+  - '='
   - BACKSPACE
   - ENTER
   - LEFT
@@ -95,8 +95,8 @@ layers:
   - '4'
   - '5'
   - '6'
-  - '-'
-  - INSERT
+  - HOME
+  - END
   - PAGE UP
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
@@ -109,7 +109,7 @@ layers:
   - '1'
   - '2'
   - '3'
-  - '='
+  - INSERT
   - DELETE
   - PAGE DOWN
   - {t: ▽, type: trans}

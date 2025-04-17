@@ -12,7 +12,7 @@ layers:
   - '8'
   - '9'
   - '0'
-  - HOME
+  - UP ARROW
   - TAB
   - Q
   - W
@@ -24,7 +24,7 @@ layers:
   - I
   - O
   - P
-  - END
+  - DOWN
   - ESCAPE
   - A
   - S
@@ -45,22 +45,22 @@ layers:
   - B
   - MUTE
   - {t: ▽, type: trans}
-  - UP ARROW
   - N
   - M
   - ','
   - .
   - /
+  - RIGHTS
   - LEFT WIN
   - RCTRL
   - LEFT ALT
   - SPACE
   - '1'
-  - ENTER
+  - HOME
+  - END
   - BACKSPACE
-  - RIGHT
+  - ENTER
   - LEFT
-  - DOWN
   '1':
   - CAPS
   - F1

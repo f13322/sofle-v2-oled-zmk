@@ -23,8 +23,7 @@
                               &kp LEFT_WIN  &kp RCTRL  &kp LEFT_ALT     &kp SPACE     &mo 1         &kp ENTER  &kp BACKSPACE      &kp RIGHT     &kp LEFT  &kp DOWN      
             >;
 
-            sensor-bindings =
-                <&inc_dec_kp C_VOL_UP C_VOL_DN &inc_dec_kp SCRL_UP SCRL_DOWN;
+            sensor-bindings = <&inc_dec_kp C_VOL_UP C_VOL_DN &inc_dec_kp PG_UP PG_DN>;
         };
 
         layer_1 {

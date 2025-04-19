@@ -23,7 +23,7 @@
                               &kp LEFT_WIN  &kp LEFT_ALT  &kp LCTRL     &kp SPACE     &mo 1         &kp MINUS  &kp EQUAL       &kp BACKSPACE &kp ENTER     &kp LEFT                   
             >;
 
-            sensor-bindings = <&inc_dec_kp C_VOL_UP C_VOL_DN &inc_dec_kp f23 f24>;
+            sensor-bindings = <&inc_dec_kp C_VOL_UP C_VOL_DN &inc_dec_kp PG_UP PG_DN>;
 
         };
 

@@ -52,8 +52,8 @@ layers:
   - /
   - RIGHT
   - LEFT WIN
-  - RCTRL
   - LEFT ALT
+  - LCTRL
   - SPACE
   - '1'
   - '-'

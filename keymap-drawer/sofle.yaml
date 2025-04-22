@@ -56,10 +56,10 @@ layers:
   - LCTRL
   - SPACE
   - '1'
+  - ENTER
+  - BACKSPACE
   - '-'
   - '='
-  - BACKSPACE
-  - ENTER
   - LEFT
   '1':
   - CAPS

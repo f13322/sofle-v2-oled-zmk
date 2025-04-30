@@ -16,26 +16,26 @@ layers:
   - TAB
   - Q
   - W
-  - E
-  - R
-  - T
-  - Y
-  - U
-  - I
-  - O
+  - F
   - P
+  - G
+  - J
+  - L
+  - U
+  - Y
+  - ;
   - DOWN
   - ESCAPE
   - A
+  - R
   - S
+  - T
   - D
-  - F
-  - G
   - H
-  - J
-  - K
-  - L
-  - ;
+  - N
+  - E
+  - I
+  - O
   - ''''
   - LEFT SHIFT
   - Z
@@ -44,8 +44,8 @@ layers:
   - V
   - B
   - MUTE
-  - {t: ▽, type: trans}
-  - N
+  - {t: '0', h: toggle}
+  - K
   - M
   - ','
   - .

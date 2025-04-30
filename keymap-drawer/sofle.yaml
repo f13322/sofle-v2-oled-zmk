@@ -55,13 +55,74 @@ layers:
   - LEFT ALT
   - LCTRL
   - SPACE
-  - '1'
+  - '2'
   - ENTER
   - BACKSPACE
   - '-'
   - '='
   - LEFT
   '1':
+  - '`'
+  - '1'
+  - '2'
+  - '3'
+  - '4'
+  - '5'
+  - '6'
+  - '7'
+  - '8'
+  - '9'
+  - '0'
+  - UP
+  - TAB
+  - Q
+  - W
+  - F
+  - P
+  - G
+  - J
+  - L
+  - U
+  - Y
+  - ;
+  - DOWN
+  - ESCAPE
+  - A
+  - R
+  - S
+  - T
+  - D
+  - H
+  - N
+  - E
+  - I
+  - O
+  - ''''
+  - LEFT SHIFT
+  - Z
+  - X
+  - C
+  - V
+  - B
+  - MUTE
+  - {t: '2', h: toggle}
+  - K
+  - M
+  - ','
+  - .
+  - /
+  - RIGHT
+  - LEFT WIN
+  - LEFT ALT
+  - LCTRL
+  - SPACE
+  - '2'
+  - ENTER
+  - BACKSPACE
+  - '-'
+  - '='
+  - LEFT
+  '2':
   - CAPS
   - F1
   - F2
@@ -122,64 +183,3 @@ layers:
   - .
   - /
   - '*'
-  '2':
-  - '`'
-  - '1'
-  - '2'
-  - '3'
-  - '4'
-  - '5'
-  - '6'
-  - '7'
-  - '8'
-  - '9'
-  - '0'
-  - UP
-  - TAB
-  - Q
-  - W
-  - F
-  - P
-  - G
-  - J
-  - L
-  - U
-  - Y
-  - ;
-  - DOWN
-  - ESCAPE
-  - A
-  - R
-  - S
-  - T
-  - D
-  - H
-  - N
-  - E
-  - I
-  - O
-  - ''''
-  - LEFT SHIFT
-  - Z
-  - X
-  - C
-  - V
-  - B
-  - MUTE
-  - {t: '2', h: toggle}
-  - K
-  - M
-  - ','
-  - .
-  - /
-  - RIGHT
-  - LEFT WIN
-  - LEFT ALT
-  - LCTRL
-  - SPACE
-  - '1'
-  - ENTER
-  - BACKSPACE
-  - '-'
-  - '='
-  - LEFT

@@ -105,7 +105,7 @@ layers:
   - V
   - B
   - MUTE
-  - {t: '2', h: toggle}
+  - {t: '1', h: toggle}
   - K
   - M
   - ','
@@ -178,7 +178,7 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {type: held}
-  - {t: '2', h: toggle}
+  - {t: '1', h: toggle}
   - '0'
   - .
   - /
